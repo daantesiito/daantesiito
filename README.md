@@ -101,11 +101,5 @@
   
 </p>
 
-
-<!--profile visit count-->
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=daantesiito&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
-</div>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
