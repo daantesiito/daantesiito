@@ -105,3 +105,7 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div>
+  [![Dante Puddu profile views](https://u8views.com/api/v1/github/profiles/89815375/views/day-week-month-total-count.svg)](https://u8views.com/github/daantesiito)
+</div>
