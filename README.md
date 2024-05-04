@@ -50,6 +50,7 @@
 - 🎲 [10 MIL JUEGO - ANOTADOR](https://daantesiito.github.io/10-mil-juego/)
 <!--Projects end-->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- stats & Trophy (start) -->
 <p align="center">
