@@ -37,6 +37,18 @@
 - 🌐 [Mi Pagina Web](https://daantesiito.github.io/)
 <!--Intro end-->
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Mis projectos</h2></summary>
+  </ul>
+</div>
+
+<!--Projects start-->
+- 🏎️ [Desafio al Pasto - Torneo de F1](https://daantesiito.github.io/desafioalpasto)
+
+- 🎲 [10 MIL JUEGO - ANOTADOR](https://daantesiito.github.io/10-mil-juego/)
+<!--Projects end-->
 
 
 <!--- stats & Trophy (start) -->
