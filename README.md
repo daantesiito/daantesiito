@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🖥️ Actualmente en 2do año de Licenciatura en Informatica en la UNLP.
+- 🖥️ Actualmente en 3er año de Licenciatura en Informatica en la UNLP.
 
 - ☁️ Estoy interesado en la ciberseguridad, especialmente el Pentesting.
 
